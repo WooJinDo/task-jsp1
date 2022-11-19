@@ -17,7 +17,7 @@ public class DbMain {
         // 6. 객체 연결 해제(close)
 		System.out.println("Class JDBC11111111111");
 		
-		String dbFileUrl = "jdbc:sqlite:test.db";
+		String dbFileUrl = "jdbc:sqlite:task1.db";
 		
         try {
             Class.forName("org.sqlite.JDBC");

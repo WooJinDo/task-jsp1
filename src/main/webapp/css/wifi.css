@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+ul {padding: 0px;}
+ul > li {display: inline-block; margin-left: 5px;}
+label {margin-left: 5px;}
+table {border-collapse: collapse; width: 100%; margin-top: 20px;}
+table td, table th { border: 1px solid #ddd; padding: 8px;}
+table tr:nth-child(even) {background-color: #f2f2f2;}
+table tr:hover {background-color: #ddd;}
+table th {padding: 12px 0 12px 0; background-color: #04AA6D; color: white;}
+table tr#info {text-align: center;}
+#wifiLoad {width: 100%; text-align: center;}
+#wifiLoad #wifi_font {font-weight: bold; font-size: 24px;} 
