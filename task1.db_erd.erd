@@ -1,0 +1,1 @@
+<diagram version="1" name="task1.db_erd.erd" time="202211261416"><entities><data-source id="sqlite_jdbc-184793f5c92-4b8e2c1e660c4e9b"><entity id="1" name="TbPublicWifiInfo" fq-name="TbPublicWifiInfo" order="0" x="820" y="181"/><entity id="2" name="WifiLog" fq-name="WifiLog" order="1" x="566" y="277"/></data-source></entities><relations/></diagram>
